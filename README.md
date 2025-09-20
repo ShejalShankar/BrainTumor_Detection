@@ -10,3 +10,6 @@ Baseline Detection: Initially, YOLOv11 is applied directly to the original MRI i
 Image Reconstruction and Enhanced Detection: Next, SRGAN is employed to perform super-resolution on the MRI images, significantly enhancing their resolution and reducing artifacts. YOLOv11 is then reapplied to these reconstructed images to assess the improvement in detection accuracy.
 ## Dataset
 The dataset used in this project consists of MRI images meticulously labeled to ensure effective training and evaluation of the model. The dataset is divided into three subsets- Training Set: 6,930,Validation Set and Test Set: 990 images.
+
+## Link to the Medium article
+<a href ="https://medium.com/@gehnaahuja011/tumor-detection-using-yolo-and-super-resolution-techniques-ae0b79d6a8f6">Tumor Detection using YOLO and SRGAN</a>
